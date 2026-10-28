@@ -1,0 +1,6 @@
+{
+  "name": "Andarmahal: Wizard's Chess",
+  "description": "A hyper-realistic 3D Wizard's Chess psychological horror war against the supernatural Ghost King inside an ancient royal palace swallowed by a cursed bioluminescent forest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
